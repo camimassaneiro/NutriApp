@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725734302298",
+    "project_id": "nutriapp2-6321e",
+    "storage_bucket": "nutriapp2-6321e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725734302298:android:945ee2956fc80b938b2e63",
+        "android_client_info": {
+          "package_name": "br.udesc.exemplo.nutriapp_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725734302298-97025701rn9bu8ltf19ve43cbq44h3uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.udesc.exemplo.nutriapp_",
+            "certificate_hash": "396a13ef7b674346b84166a216185ed4620609c5"
+          }
+        },
+        {
+          "client_id": "725734302298-jq9km6f2qkgsu0ekoahb8ev5f8dih3nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKdyic-nJ1BHOzsINopLwPlJ_dCy5Pr7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725734302298-jq9km6f2qkgsu0ekoahb8ev5f8dih3nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
